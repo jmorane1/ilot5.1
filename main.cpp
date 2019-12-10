@@ -20,8 +20,8 @@ using namespace std;
  */
 int main(int argc, char** argv) {
 
-    cout<< " Bonjour tout le monde"<<endl;
-    
+    cout<< " Bonjour tout le monde "<<endl;
+    cout << "Je m'appelles Jules"<<endl;
     return 0;
 }
 
